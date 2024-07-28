@@ -1,4 +1,8 @@
 #bot.py
+#To run script from Terminal
+# Commands:
+# python3 bot.py
+
 
 from chatterbot import ChatBot
 
